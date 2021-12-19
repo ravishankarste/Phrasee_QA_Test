@@ -12,7 +12,7 @@
   	<li> Find the file TestRunner under src/main/java/MyRunner</li>
   	<li> Right click on TestRunner file to find the option Run 'TestRunner' to run the tests</li>
 </ul>
-<h2>Reporting</h2>
+<h2> Test Result Reporting</h2>
 <h2>This framework generates reports in 2 formats</h2>
 <ul>
 	<li> Json -> can be found here -> json_output>cucumber.json </li>
