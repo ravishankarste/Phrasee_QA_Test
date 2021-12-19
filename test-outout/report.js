@@ -187,14 +187,14 @@ formatter.match({
   "location": "SetUp.user_navigates_to_url()"
 });
 formatter.result({
-  "duration": 10181410708,
+  "duration": 9790469875,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_should_navigate_to_login_page()"
 });
 formatter.result({
-  "duration": 19454208,
+  "duration": 4005792,
   "status": "passed"
 });
 formatter.match({
@@ -207,7 +207,7 @@ formatter.match({
   "location": "SetUp.user_enters_username(String)"
 });
 formatter.result({
-  "duration": 1421558042,
+  "duration": 1242481833,
   "status": "passed"
 });
 formatter.match({
@@ -220,70 +220,70 @@ formatter.match({
   "location": "SetUp.user_enters_password(String)"
 });
 formatter.result({
-  "duration": 346708334,
+  "duration": 187256042,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 3785110917,
+  "duration": 3641171750,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_clicks_create_new_campaign_link()"
 });
 formatter.result({
-  "duration": 1482893250,
+  "duration": 354095291,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_selects_email_tab()"
 });
 formatter.result({
-  "duration": 113684292,
+  "duration": 171706167,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_selects_external_automation_project_from_dropdown()"
 });
 formatter.result({
-  "duration": 474145750,
+  "duration": 409276125,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_enters_campaign_name()"
 });
 formatter.result({
-  "duration": 985219166,
+  "duration": 989267250,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_enters_subject_line()"
 });
 formatter.result({
-  "duration": 613883083,
+  "duration": 506082625,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_enters_audience_size()"
 });
 formatter.result({
-  "duration": 309345791,
+  "duration": 362088000,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_enters_avg_open_rate()"
 });
 formatter.result({
-  "duration": 879688917,
+  "duration": 761193834,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_clicks_next_button()"
 });
 formatter.result({
-  "duration": 753386375,
+  "duration": 223561709,
   "status": "passed"
 });
 formatter.scenario({
@@ -318,28 +318,28 @@ formatter.match({
   "location": "SetUp.user_navigates_to_language_gen_tab()"
 });
 formatter.result({
-  "duration": 58534125,
+  "duration": 94700167,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_selects_data_to_send_email()"
 });
 formatter.result({
-  "duration": 1226327958,
+  "duration": 1543623792,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_selects_campaign_type()"
 });
 formatter.result({
-  "duration": 431154167,
+  "duration": 383783958,
   "status": "passed"
 });
 formatter.match({
   "location": "SetUp.user_clicks_on_magic_button()"
 });
 formatter.result({
-  "duration": 99192250,
+  "duration": 133260667,
   "status": "passed"
 });
 });
