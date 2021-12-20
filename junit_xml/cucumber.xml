@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="20.798025">
-<testcase classname="Create a New campaign on Phrasee" name="I login with valid credentials" time="18.642656">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="21.361532">
+<testcase classname="Create a New campaign on Phrasee" name="I login with valid credentials" time="20.268071">
 <system-out><![CDATA[Given user navigates to url.................................................passed
 When title of login page is Login | Phrasee.................................passed
 Then user enters username "ravishankarste@gmail.com"........................passed
@@ -16,7 +16,7 @@ Then user enters avg open rate..............................................pass
 Then user clicks next button................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Create a New campaign on Phrasee" name="Language Generation" time="2.155369">
+<testcase classname="Create a New campaign on Phrasee" name="Language Generation" time="1.093461">
 <system-out><![CDATA[When user navigates to Language Generation tab..............................passed
 Then user selects date to send email........................................passed
 Then user selects campaign type.............................................passed

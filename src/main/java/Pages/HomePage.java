@@ -112,6 +112,7 @@ public class HomePage extends BaseClass {
     }
 
     public void selectEmailDate() {
+        pageLoadTimeout();
         WebDriverWait wait = new WebDriverWait(driver, 10);
         WebElement ele1 = driver.findElement(By.xpath("//i[contains(@class, 'calendar-picker-icon')] | //span[@class='ant-calendar-picker ant-calendar-picker-small'] | //input[@data-cy='date']"));
         wait.until(ExpectedConditions.elementToBeClickable(ele1)).click();
